@@ -11,3 +11,9 @@
 .odd-number.big-letters {
   font-size: 24px;
 }
+
+#second-division {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
