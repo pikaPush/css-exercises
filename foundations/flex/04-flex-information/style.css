@@ -32,4 +32,5 @@ img {
   display: flex;
   gap: 52px;
   width: 200px;
+  flex-wrap: wrap;
 }
