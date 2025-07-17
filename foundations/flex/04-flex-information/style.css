@@ -31,4 +31,5 @@ img {
 .container {
   display: flex;
   gap: 52px;
+  width: 200px;
 }
