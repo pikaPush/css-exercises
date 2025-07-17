@@ -58,4 +58,5 @@ li a {
 
 .body {
   display: flex;
+  flex: 1;
 }
