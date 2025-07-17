@@ -60,7 +60,7 @@ li a {
 
 .cards {
   display: flex;
-  max-width: 200px;
+
   flex-wrap: wrap;
   text-align: center;
   gap: 32px;
