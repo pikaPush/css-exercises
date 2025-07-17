@@ -53,9 +53,3 @@ ul {
   margin: 0;
   padding: 0;
 }
-
-.right-side-bar {
-  margin-left: auto;
-  display: flex;
-  gap: 8px;
-}
