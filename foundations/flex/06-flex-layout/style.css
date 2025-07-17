@@ -36,7 +36,8 @@ li a {
   text-decoration: none;
 }
 
-.header {
+.header,
+.footer {
   display: flex;
   justify-content: space-between;
   padding: 15px;
@@ -59,8 +60,5 @@ li a {
 }
 
 .footer {
-  display: flex;
-  flex-direction: column;
   background-color: #eeeeee;
-  padding: 15px;
 }
