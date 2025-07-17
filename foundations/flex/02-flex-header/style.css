@@ -1,6 +1,7 @@
-.header  {
+.header {
   font-family: monospace;
   background: papayawhip;
+  padding: 10px;
 }
 
 .logo {
