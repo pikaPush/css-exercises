@@ -56,4 +56,5 @@ ul {
 .right-side-bar {
   margin-left: auto;
   display: flex;
+  gap: 8px;
 }
