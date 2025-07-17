@@ -38,6 +38,7 @@ li a {
 .header {
   display: flex;
   justify-content: space-between;
+  padding: 15px;
 }
 
 .left-links,
