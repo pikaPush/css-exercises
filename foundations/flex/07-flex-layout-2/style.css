@@ -44,3 +44,7 @@ li a {
   color: white;
   text-decoration: none;
 }
+
+.cards {
+  display: flex;
+}
