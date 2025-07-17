@@ -50,4 +50,5 @@ li a {
   max-width: 200px;
   flex-wrap: wrap;
   text-align: center;
+  gap: 22px;
 }
