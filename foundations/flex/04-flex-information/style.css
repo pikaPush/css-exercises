@@ -30,4 +30,5 @@ img {
   flex-wrap: wrap;
   justify-content: center;
   width: 200px;
+  gap: 52px;
 }
