@@ -59,4 +59,6 @@ li a {
 .footer {
   display: flex;
   flex-direction: column;
+  background-color: #eeeeee;
+  padding: 15px;
 }
