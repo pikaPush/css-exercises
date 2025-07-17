@@ -84,3 +84,8 @@ button.cancel {
   display: flex;
   margin: auto;
 }
+
+.info {
+  display: flex;
+  justify-content: center;
+}
