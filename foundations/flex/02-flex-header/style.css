@@ -34,3 +34,7 @@ a {
 .left-links {
   margin-right: auto;
 }
+
+.right-links {
+  margin-left: auto;
+}
