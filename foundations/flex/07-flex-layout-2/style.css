@@ -55,3 +55,7 @@ li a {
   text-align: center;
   gap: 22px;
 }
+
+.body {
+  display: flex;
+}
