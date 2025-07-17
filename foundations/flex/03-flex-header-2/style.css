@@ -15,7 +15,6 @@ body {
   display: flex;
   align-items: center;
   padding: 8px;
-  justify-content: center;
   gap: 16px;
 }
 
@@ -54,4 +53,5 @@ ul {
 
 .left-side-bar {
   display: flex;
+  flex-direction: row;
 }
