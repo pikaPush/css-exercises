@@ -47,4 +47,6 @@ li a {
 
 .cards {
   display: flex;
+  max-width: 200px;
+  flex-wrap: wrap;
 }
