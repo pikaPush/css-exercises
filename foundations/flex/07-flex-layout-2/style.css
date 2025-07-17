@@ -49,4 +49,5 @@ li a {
   display: flex;
   max-width: 200px;
   flex-wrap: wrap;
+  text-align: center;
 }
