@@ -58,8 +58,3 @@ ul {
   display: flex;
   gap: 8px;
 }
-
-.left-side-bar {
-  display: flex;
-  gap: 3;
-}
