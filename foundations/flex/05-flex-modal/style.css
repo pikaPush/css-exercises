@@ -77,4 +77,5 @@ button.cancel {
   display: flex;
   justify-content: space-between;
   font-size: 18px;
+  font-weight: bold;
 }
