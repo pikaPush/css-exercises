@@ -58,6 +58,7 @@ li a {
   align-items: center;
   justify-content: center;
   gap: 14px;
+  flex: 1;
 }
 
 .footer {
