@@ -27,12 +27,3 @@ img {
   justify-content: center;
   background: #eee;
 }
-
-.container {
-  display: flex;
-  gap: 52px;
-  width: 200px;
-  flex-wrap: wrap;
-  text-align: center;
-  margin-top: 32px;
-}
