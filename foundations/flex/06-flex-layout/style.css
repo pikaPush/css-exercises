@@ -55,3 +55,7 @@ li a {
   justify-content: center;
   gap: 14px;
 }
+
+.footer {
+  display: flex;
+}
