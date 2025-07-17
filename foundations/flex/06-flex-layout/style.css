@@ -37,3 +37,9 @@ li a {
   display: flex;
   justify-content: space-between;
 }
+
+.left-links,
+.right-links {
+  margin: 0;
+  padding: 0;
+}
